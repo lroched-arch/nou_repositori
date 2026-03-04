@@ -4,7 +4,7 @@ title: El meu primer treball amb Git
 nav_order: 1
 ---
 
-![La meva imatge](images/foto.png)
+![La meva imatge](image/foto.png)
 
 **Text en negreta**  
 *Text en cursiva*
